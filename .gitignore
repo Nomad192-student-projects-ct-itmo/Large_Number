@@ -1,0 +1,9 @@
+*
+!*.git*
+!.clang-format
+!workflow/
+
+!*.cpp
+!*.hpp
+!*.h
+!CMakeLists.txt
