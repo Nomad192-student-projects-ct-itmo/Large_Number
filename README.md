@@ -1,6 +1,6 @@
 # Large Number (Big Number)
 
-Native implementation of large numbers in C++.\ 
+Native implementation of large numbers in C++.\
 Multiplication is implemented by the Karatsuba method, division and root - by the Newton method.
 
 ---
